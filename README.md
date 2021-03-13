@@ -1,1 +1,1 @@
-# simple-photocarousel
+# Simple Photo Carousel
